@@ -1,6 +1,6 @@
 # Digitol Marketing Agency Website
 
-## [View Demo](https://bscodes.github.io/react-agency-website/#/)
+## [View Demo]([https://bscodes.github.io/react-agency-website/#/](https://digitol-websitev3.vercel.app/#/))
 
 A Creative Agency website built with React and Redux. Includes team, portfolio, services pages and a contact form
 
